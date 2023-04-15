@@ -1,12 +1,12 @@
 
-<h3 align="center">:thought_balloon: Info :thought_balloon:</h3>
+<h2 align="center">:thought_balloon: Info :thought_balloon:</h2>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vombit&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
 
-<h3 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h3>
+<h2 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@
 
 ---
 
-<h3 align="center">:fire: My Stats :fire:</h3>
+<h2 align="center">:fire: My Stats :fire:</h2>
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vombit&theme=dark&background=000000)](https://git.io/streak-stats)
