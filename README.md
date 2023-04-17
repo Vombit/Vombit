@@ -1,8 +1,17 @@
 
 <h2 align="center">:thought_balloon: Info :thought_balloon:</h2>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vombit&style=flat-square&color=blue" alt=""/>
-</div>
+
+<table border="0" cellspacing="0">
+	<tbody>
+		<tr><td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vombit&theme=tokyonight)
+      </td><td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vombit&theme=tokyonight&utcOffset=8)
+      </td></tr>
+	</tbody>
+</table>
 
 ---
 
@@ -37,11 +46,25 @@
 <h2 align="center">:fire: My Stats :fire:</h2>
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vombit&theme=dark&background=000000)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vombit&theme=tokyonight&column=-1&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vombit&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vombit&langs_count=10&layout=compact&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+---
+
+<h2 align="center">❤️ My Favorites Repo ❤️</h2>
 <div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=quasar&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/quasar)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=Device_Moving_View&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/Device_Moving_View)
+    
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=Discord-Yumi-Bot-v2.0&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/Discord-Yumi-Bot-v2.0)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=VkCustom&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/VkCustom)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vombit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=file-separator&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/file-separator)
+</div>
 
+<h2> </h2>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=vombit&style=flat-square&color=blue" alt=""/>
 </div>
