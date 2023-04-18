@@ -56,12 +56,12 @@
 <h2 align="center">❤️ My Favorites Repo ❤️</h2>
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=quasar&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/quasar)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=Device_Moving_View&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/Device_Moving_View)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=quasar&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/quasar)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=Device_Moving_View&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/Device_Moving_View)
     
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=Discord-Yumi-Bot-v2.0&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/Discord-Yumi-Bot-v2.0)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=VkCustom&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/VkCustom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=Discord-Yumi-Bot-v2.0&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/Discord-Yumi-Bot-v2.0)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=VkCustom&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/VkCustom)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vombit&repo=file-separator&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/file-separator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=file-separator&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/file-separator)
 </div>
 
 <h2> </h2>
