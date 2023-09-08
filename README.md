@@ -17,7 +17,6 @@
 
 <h2 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" width="40" height="40"/>&nbsp;
