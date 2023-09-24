@@ -47,7 +47,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vombit&theme=tokyonight&column=-1&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vombit&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vombit&langs_count=10&layout=compact&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vombit&langs_count=10&layout=compact&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
