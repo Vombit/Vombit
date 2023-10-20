@@ -60,7 +60,7 @@
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=Discord-Yumi-Bot-v2.0&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/Discord-Yumi-Bot-v2.0)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=VkCustom&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/VkCustom)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=file-separator&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/file-separator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=file-separator&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/file-separator)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=buy-item-by-pattern&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/buy-item-by-pattern)
 </div>
 
 <h2> </h2>
