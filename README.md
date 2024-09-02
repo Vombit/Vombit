@@ -31,9 +31,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=caelum&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/caelum)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=buy-item-by-pattern&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/buy-item-by-pattern)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=quasar&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/quasar)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=Device_Moving_View&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/Device_Moving_View)
-    
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=Discord-Yumi-Bot-v2.0&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/Discord-Yumi-Bot-v2.0)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vombit&repo=VkCustom&show_owner=true&theme=tokyonight&bg_color=00000000)](https://github.com/Vombit/VkCustom)
 </div>
 
 <h2> </h2>
